@@ -1,0 +1,7 @@
+joblib~=1.4.2
+fastapi~=0.115.11
+scikit-learn~=1.6.1
+pydantic~=2.10.6
+uvicorn==0.29.0
+sentence-transformers==2.5.1
+torch==2.2.1
