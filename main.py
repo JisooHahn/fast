@@ -9,9 +9,6 @@ from starlette.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 origins = [
-    "http://localhost:10000",
-    "http://localhost:8000",
-    "http://43.201.250.218:10000",
     "http://bookjeogseoul.site",
     "http://bookjeog.site"
 ]
